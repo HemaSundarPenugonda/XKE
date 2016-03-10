@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parallel Tests" duration-ms="6813" started-at="2016-03-10T11:03:53Z" finished-at="2016-03-10T11:04:00Z">
+    <groups>
+    </groups>
+    <test name="WritingRunTimeXML" duration-ms="6813" started-at="2016-03-10T11:03:53Z" finished-at="2016-03-10T11:04:00Z">
+      <class name="com.xebia.MainClass">
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.xebia.MainClass@11531931]" name="method1" duration-ms="6789" started-at="2016-03-10T16:33:53Z" finished-at="2016-03-10T16:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- com.xebia.MainClass -->
+    </test> <!-- WritingRunTimeXML -->
+  </suite> <!-- Parallel Tests -->
+</testng-results>
